@@ -1,17 +1,13 @@
 <div align="center">
   
 # Shirin Mohajeri
-
 ### Front-End Developer · Software Tester · API Testing
-
 [![Email](https://img.shields.io/badge/Email-shirin.mohajeri68%40yahoo.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shirin.mohajeri68@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shirin-mohajeri/)
 [![Location](https://img.shields.io/badge/Location-Padua%2C%20Italy-4CAF50?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 Front-End Developer and Software Tester building responsive interfaces and validating them with REST API testing. ICT Master's graduate from the University of Padua, currently open to Front-End, Software Tester, or API Testing roles in Italy.
-
 </div>
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -30,7 +26,6 @@ Front-End Developer and Software Tester building responsive interfaces and valid
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
 <br>
 
 ## 🚀 Featured Projects
@@ -43,7 +38,8 @@ Front-End Developer and Software Tester building responsive interfaces and valid
 React app integrating a live REST API for city search, current conditions, and a 5-day forecast. Deployed on Vercel.
 
 **Stack:** React · Vite · REST API
-[`Live Demo →`](#) · [`Repo →`](https://github.com/shirinmohajeri)
+
+[`Live Demo →`](#) · [`Repo →`](#)
 
 </td>
 <td width="50%" valign="top">
@@ -52,6 +48,7 @@ React app integrating a live REST API for city search, current conditions, and a
 Responsive dashboard built during my internship at Logbot, with truck, warehouse, and map panel views across desktop, tablet, and mobile.
 
 **Stack:** HTML5 · CSS3 · JavaScript
+
 [`Repo →`](https://github.com/shirinmohajeri/HVAC-Demo)
 
 </td>
@@ -59,11 +56,12 @@ Responsive dashboard built during my internship at Logbot, with truck, warehouse
 <tr>
 <td width="50%" valign="top">
 
-### 🔐  Spinning-Circle-Login
-Modern neumorphism-style login page with a clean, responsive layout.
+### 🌀 Spinning Circle Login
+Animated login UI featuring a radial ring of glowing ticks that spins around the card on submit, with floating-label inputs — built with vanilla JS, no frameworks.
 
-**Stack:** HTML5 · CSS3 · Bootstrap 5
-[`Repo →`](https://github.com/shirinmohajeri)
+**Stack:** HTML5 · CSS3 · JavaScript
+
+[`Live Demo →`](#) · [`Repo →`](https://github.com/shirinmohajeri/Spinning-Circle-Login)
 
 </td>
 <td width="50%" valign="top">
@@ -72,16 +70,14 @@ Modern neumorphism-style login page with a clean, responsive layout.
 Structured Postman test cases validating request/response behavior across multiple endpoints.
 
 **Stack:** Postman · REST APIs
-[`Repo →`](https://github.com/shirinmohajeri)
+
+[`Repo →`](#)
 
 </td>
 </tr>
 </table>
-
 <br>
 
 <div align="center">
-
 <sub>📫 <a href="mailto:shirin.mohajeri68@yahoo.com">shirin.mohajeri68@yahoo.com</a> · English · Persian · Italian · Dutch</sub>
-
 </div>

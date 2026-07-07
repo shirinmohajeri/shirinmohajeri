@@ -59,7 +59,7 @@ Responsive dashboard built during my internship at Logbot, with truck, warehouse
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Login Form UI
+### 🔐  Spinning-Circle-Login
 Modern neumorphism-style login page with a clean, responsive layout.
 
 **Stack:** HTML5 · CSS3 · Bootstrap 5

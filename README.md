@@ -1,38 +1,86 @@
 <div align="center">
 
-# Shirin Mohajeri
+# 👋 Hi, I'm **Shirin Mohajeri**
 
-### Front-End Developer · Software Tester · API Testing
+### 💻 Front-End Developer · 🧪 Software Tester · 🔌 API Testing
 
-[![Email](https://img.shields.io/badge/Email-shirin.mohajeri68%40yahoo.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:shirin.mohajeri68@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shirin-mohajeri/)
-[![Location](https://img.shields.io/badge/Location-Padua%2C%20Italy-4CAF50?style=flat-square\&logo=googlemaps\&logoColor=white)](#)
+<p>
+  <a href="https://www.linkedin.com/in/shirin-mohajeri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shirin.mohajeri68@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-**Front-End Developer and Software Tester** focused on building responsive web interfaces and validating applications through REST API testing.
-ICT Master's graduate from the **University of Padua**, currently open to **Front-End Developer, Software Tester, and API Testing opportunities in Italy**.
+<p>
+  <img src="https://img.shields.io/badge/Location-Padua%2C%20Italy-4CAF50?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Front--End%20%26%20Testing-6C63FF?style=flat-square" />
+</p>
+
+<br>
+
+> **Building responsive web interfaces and making applications more reliable through software and API testing.**
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-### Front-End
+I'm an **ICT Master's graduate from the University of Padua** with a background in both **Front-End Development** and **Software Testing**.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)](https://github.com/shirinmohajeri/TypeScript-Learning)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+I enjoy working at the intersection of development and quality — building interfaces, understanding how applications work, testing APIs, and finding problems before users do.
 
-### Testing & Tools
+🎯 **Currently looking for opportunities in Italy** as a:
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+* 💻 Front-End Developer
+* 🧪 Software Tester
+* 🔌 API Tester / QA Engineer
+
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Front-End Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap" />
+</p>
+
+| Technology | Focus                            |
+| ---------- | -------------------------------- |
+| HTML5      | Semantic & accessible structure  |
+| CSS3       | Responsive layouts & modern UI   |
+| JavaScript | DOM, ES6+, APIs & interactions   |
+| TypeScript | Type-safe JavaScript development |
+| React      | Component-based UI development   |
+| Vite       | Modern front-end tooling         |
+| Bootstrap  | Responsive UI development        |
+
+### 🧪 Testing & QA
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github" />
+</p>
+
+**Testing experience includes:**
+
+* REST API testing
+* Request & response validation
+* Postman test collections
+* API test cases
+* Functional testing
+* Regression testing
+* Bug identification & reporting
+* Front-End validation
+* Cross-device responsive testing
+
+### 🗄️ Other Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,figma,docker" />
+</p>
 
 ---
 
@@ -40,75 +88,206 @@ ICT Master's graduate from the **University of Padua**, currently open to **Fron
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌦️ Weather Forecast App
+<h3>🌦️ Weather Forecast App</h3>
 
-A React application that integrates a live REST API to provide city search, current weather conditions, and a 5-day forecast. Deployed on Vercel.
+A React application that consumes a live REST API to provide:
 
-**Stack:** React · Vite · REST API
+* 🔎 City search
+* 🌡️ Current weather
+* 📅 5-day forecast
+* 📱 Responsive interface
 
-[`Live Demo →`](#) · [`Repository →`](#)
+<strong>Stack</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+
+<br><br>
+
+<a href="#">🔗 Live Demo</a> · <a href="#">📁 Repository</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🖥️ HVAC Dashboard UI
+<h3>🖥️ HVAC Dashboard UI</h3>
 
-A responsive dashboard developed during my internship at Logbot, featuring truck, warehouse, and map views optimized for desktop, tablet, and mobile screens.
+Responsive dashboard developed during my internship at **Logbot**, featuring different interface views for:
 
-**Stack:** HTML5 · CSS3 · JavaScript
+* 🚚 Trucks
+* 🏭 Warehouses
+* 🗺️ Maps
+* 📱 Responsive layouts
 
-[`Repository →`](https://github.com/shirinmohajeri/HVAC-Demo)
+<strong>Stack</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br><br>
+
+<a href="https://github.com/shirinmohajeri/HVAC-Demo">📁 View Repository</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌀 Spinning Circle Login
+<h3>🌀 Spinning Circle Login</h3>
 
-An animated login interface featuring a radial ring of glowing ticks that rotates around the login card when the form is submitted. Built with vanilla JavaScript and no frameworks.
+Animated login interface created with vanilla JavaScript.
 
-**Stack:** HTML5 · CSS3 · JavaScript
+✨ Features:
 
-[`Live Demo →`](#) · [`Repository →`](https://github.com/shirinmohajeri/Spinning-Circle-Login)
+* Animated radial ring
+* Glowing visual effects
+* Floating labels
+* Form interaction
+* No frameworks
+
+<strong>Stack</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br><br>
+
+<a href="#">🔗 Live Demo</a> · <a href="https://github.com/shirinmohajeri/Spinning-Circle-Login">📁 Repository</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✅ REST API Test Suite
+<h3>✅ REST API Test Suite</h3>
 
-A structured collection of Postman test cases designed to validate request and response behavior across multiple REST API endpoints.
+A structured Postman project focused on validating REST API behavior.
 
-**Stack:** Postman · REST APIs
+🧪 Includes:
 
-[`Repository →`](#)
+* API requests
+* Status-code validation
+* Response validation
+* Test cases
+* Endpoint testing
+
+<strong>Stack</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+
+<br><br>
+
+<a href="#">📁 Repository</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📚 Currently Learning
+## 📘 Learning & Growth
 
-* TypeScript
-* React
-* Modern JavaScript (ES6+)
-* REST API Testing
-* Front-End Testing & Automation
+I'm continuously improving my development and testing skills.
+
+```text
+JavaScript       ████████████████████░░  Advanced
+HTML / CSS       █████████████████████░  Advanced
+REST API Testing █████████████████░░░░░  Strong
+TypeScript       ██████████████░░░░░░░░  Learning
+React            ████████████░░░░░░░░░░  Learning
+Docker           ████████░░░░░░░░░░░░░░  Learning
+```
+
+### 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-Deepening-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shirinmohajeri&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 What I Bring
+
+<div align="center">
+
+| 💻 Development |     🧪 Testing     |      🔌 API      |
+| :------------: | :----------------: | :--------------: |
+|  Responsive UI | Functional Testing |     REST APIs    |
+|   JavaScript   | Regression Testing |      Postman     |
+|      React     |    QA Validation   |    Test Cases    |
+|   TypeScript   |    Bug Detection   | Request/Response |
+
+</div>
+
+---
+
+## 🌍 Languages
+
+🇬🇧 **English** — Advanced
+🇮🇷 **Persian** — Native
+🇮🇹 **Italian** — Elementary
+🇳🇱 **Dutch** — A2
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to opportunities where I can combine **Front-End Development, Software Testing, and API Testing**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/shirin-mohajeri/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shirin.mohajeri68@yahoo.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+📍 **Padua, Italy**
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>
-📫 <a href="mailto:shirin.mohajeri68@yahoo.com">shirin.mohajeri68@yahoo.com</a>
-· English · Persian · Italian · Dutch
-</sub>
+### 💙 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=shirinmohajeri&style=flat-square&color=blue" />
 
 </div>

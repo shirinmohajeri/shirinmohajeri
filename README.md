@@ -45,18 +45,22 @@ I enjoy working at the intersection of development and quality — building inte
 ### 🎨 Front-End Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <a href="https://github.com/shirinmohajeri/TypeScript-Learning">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
 </p>
 
-| Technology | Focus                            |
-| ---------- | -------------------------------- |
-| HTML5      | Semantic & accessible structure  |
-| CSS3       | Responsive layouts & modern UI   |
-| JavaScript | DOM, ES6+, APIs & interactions   |
-| TypeScript | Type-safe JavaScript development |
-| React      | Component-based UI development   |
-| Vite       | Modern front-end tooling         |
-| Bootstrap  | Responsive UI development        |
+| Technology                                                          | Focus                            |
+| ------------------------------------------------------------------- | -------------------------------- |
+| HTML5                                                               | Semantic & accessible structure  |
+| CSS3                                                                | Responsive layouts & modern UI   |
+| JavaScript                                                          | DOM, ES6+, APIs & interactions   |
+| [TypeScript](https://github.com/shirinmohajeri/TypeScript-Learning) | Type-safe JavaScript development |
+| React                                                               | Component-based UI development   |
+| Vite                                                                | Modern front-end tooling         |
+| Bootstrap                                                           | Responsive UI development        |
 
 ### 🧪 Testing & QA
 
@@ -218,11 +222,13 @@ Docker           ████████░░░░░░░░░░░░░
 
 ### 📚 Currently Learning
 
-<p>
+<a href="https://github.com/shirinmohajeri/TypeScript-Learning">
   <img src="https://img.shields.io/badge/TypeScript-Deepening-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+</a>
+
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
 
